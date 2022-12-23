@@ -5,8 +5,7 @@
     "description": "A customizable reader extension.",
     "homepage_url": "https://github.com/necatituran/Reader",
     "browser_action": {
-        "default_icon": "icons/icon19.png",
-        "default_title": "Just Read"
+        "default_title": "Easy Reader"
     },
     "permissions": [
         "tabs",
