@@ -1,0 +1,17 @@
+{
+    "name": "Reader",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "A customizable reader extension.",
+    "homepage_url": "https://github.com/necatituran/Reader",
+    "browser_action": {
+        "default_icon": "icons/icon19.png",
+        "default_title": "Just Read"
+    },
+    "permissions": [
+        "tabs",
+        "*://*/*",
+        "contextMenus",
+        "storage"
+    ]
+}
